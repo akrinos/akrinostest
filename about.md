@@ -1,5 +1,6 @@
 ---
 title: About Arianna
+feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Arianna Krinos
   First-year graduate student in the MIT-WHOI Joint Program in Biological Oceanography
