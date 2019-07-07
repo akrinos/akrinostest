@@ -3,7 +3,6 @@ title: About Arianna
 feature_text: |
   ## Arianna Krinos
   First-year graduate student in the MIT-WHOI Joint Program in Biological Oceanography
-feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Arianna is a training biological oceanographer working at the interface of microbial ecology and computational methods like modeling and bioinformatics."
 ---
 
